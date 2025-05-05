@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+gunicorn
+python-dotenv
+azure-cognitiveservices-vision-computervision
+msrest
+openai
+python-multipart
